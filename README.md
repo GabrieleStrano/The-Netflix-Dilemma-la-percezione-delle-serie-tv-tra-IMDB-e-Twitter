@@ -2,7 +2,7 @@
 Project work for Data Management and Visualization. Data Science degree.
 
 Contents:
-MongoDB
+MongoDB\
 Kafka
 Python
 Nifi
